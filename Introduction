@@ -1,12 +1,12 @@
 # Star--Mania
-#This is my first time uploading code on Github, apologies if there are any bugs or issues.In the case of a bug, you can also view the code 
-and play the game here: 
 
-http://www.codeskulptor.org/#user47_puM22L2lqw_4.py (Please view using Chrome web browser).
+#You are able to play this game online through almost any web browser! Simply go to the link below and press the play button (>) 
+located in the top left corner.
 
-I made this game using Python on codeskulptor as a way to learn Python. I was inspiried to make this game when I read about Elon Musk's
-story of his first successful videogame, Blastar, which he made at the age of twelve and sold to a local game store in South Africa.
+http://www.codeskulptor.org/#user47_puM22L2lqw_4.py
 
-I will be uploading my latest programming project soon, a version of minesweeper with all the features from the original, along with custom maps
-and features. I built this version of minesweeper using Java on the Netbeans IDE this year. Please check it out when I release it :).
-
+# Controls:
+# L - toggle invincibility
+# wasd / arrow keys - move spaceship
+# j / space - shoot laser
+# Have fun playing! :)
